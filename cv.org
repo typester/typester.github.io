@@ -1,0 +1,85 @@
+#+TITLE: Daisuke Murase
+
+* Contact Information
+- Portland OR
+- (503) 568-1596
+- typester@gmail.com
+
+* Summary
+
+Highly skilled and experienced software engineer with over 20 years of expertise in developing scalable, high-performance software solutions. Specializes in Rust, TypeScript, and mobile development, with a proven track record in leadership roles and startup environments. Particularly adept at building asynchronous network applications, backend systems, and mobile app core logic using Rust.
+
+* Skills
+
+- *Programming Languages:* Rust, TypeScript, Perl, C
+- *Frameworks & Libraries:* tokio (Rust), sqlx (Rust), axum (Rust), React/ReactNative, Next.js, Jetpack Compose
+- *Tools & Technologies:* Docker, Git, SQL, UniFFI, REST API, GraphQL, Redis, Firestore
+- *Cloud & DevOps:* AWS, GCP, Firebase, CI/CD pipelines, Kubernetes
+- *Mobile Development:* Android (Jetpack Compose), iOS (SwiftUI), ReactNative, Rust
+- *Soft Skills:* Leadership, Team Collaboration, Agile Methodologies, Problem Solving
+
+* Professional Experiences
+
+** Lead Software Engineer at HOMMA Inc.
+
+April 2020 - October 2024
+
+Mobile app architectural design and implementation, taking it from scratch to release using ReactNative. Later joined the Hub team (smart home computer) working in Rust to focus on performance improvements, maintenance, and the design and implementation of new Hub services.
+
+Archievements:
+
+- Developed and released a mobile app from scratch using ReactNative.
+- Migrated the Hub system from a Node.js-based solution to Rust, significantly improving performance and memory efficiency.
+
+
+
+** Software Engineer at Glasp Inc.
+
+April 2023 - October 2023
+
+Led efforts to refactor and clean up the existing codebase, as well as spearheaded the development of a mobile app from scratch to release.
+
+Achievements:
+
+- Designed and built a GraphQL version of the API using Rust.
+- Developed a mobile app from scratch, with core logic written in Rust and UI implemented natively using Jetpack Compose for Android and SwiftUI for iOS.
+
+
+** Chief Technology Officer at Nature Inc. (Japan)
+
+April 2018 - Auguest 2019,
+September 2019 - March 2020 (Contractor)
+
+As CTO, made all technology decisions, designed and architected the entire company's technical solutions, including backend systems, mobile apps, and device firmware.
+
+Archivements:
+
+- Rewrote and released the existing mobile app using ReactNative.
+- Designed and developed firmware in C for new ESP32 based hardware from scratch, including obtaining certification for echonet-lite (a communication protocol for smart home devices in Japan).
+
+
+** Founder & CTO at Make It Real Inc. (Japan)
+
+September 2014 - March 2018
+
+Developed experimental MVPs for client companies upon request, specializing in rapid prototyping. Notable projects included building the communication feature for a walkie-talkie app and the communication component for a robot conference system.
+
+** Lead Software Engineer at KAYAC Inc. (Japan)
+
+September 2004 - July 2014
+
+As part of the R&D team for new business development, designed and implemented the architecture for various services and libraries, including a VoIP calling app, an online voice sharing service, and an open-source RTMP server.
+
+* Advisory Roles
+
+** Zypsy Inc.
+- *Role:* Technical Advisor
+- *Duration:* July 2018 - August 2018
+
+** Wellstyle Corporation (Japan)
+- *Role:* Technical Advisor
+- *Duration:* March 2014 - July 2019
+
+** iichi Inc. (Japan)
+- *Role:* Technical Advisor
+- *Duration:* September 2014 - March 2016
